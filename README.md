@@ -1,4 +1,8 @@
 # TailProxy
+![Docker Pulls](https://img.shields.io/docker/pulls/rahadyanrizqy/tailproxy)
+![Docker Image Size](https://img.shields.io/docker/image-size/rahadyanrizqy/tailproxy/latest)
+![GitHub License](https://img.shields.io/github/license/RahadyanRizqy/tailproxy)
+![GitHub Stars](https://img.shields.io/github/stars/RahadyanRizqy/tailproxy)
 <p align="center">
     <img src="https://raw.githubusercontent.com/RahadyanRizqy/tailproxy/refs/heads/main/assets/tailproxy_banner.png" width="75%" alt="TailProxy" align="center">
 </p>
