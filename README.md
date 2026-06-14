@@ -1,5 +1,7 @@
 # TailProxy
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/RahadyanRizqy/tailproxy/refs/heads/main/assets/tailproxy_banner.png" width="75%" alt="TailProxy" align="center">
+</p>
 TailProxy is a lightweight container built on top of the official Tailscale container image and enhanced with HAProxy.
 
 It allows you to access devices and services that cannot run Tailscale themselves by turning a Linux host into a Tailscale-enabled pseudo-node. TailProxy can also be used as a reverse proxy for self-hosted applications and internal web services.
