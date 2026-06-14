@@ -139,4 +139,4 @@ TailProxy extends the official Tailscale container by integrating:
 
 ## 📜 License
 
-MIT License
+GNU Affero General Public License v3
